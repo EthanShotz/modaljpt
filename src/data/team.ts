@@ -8,7 +8,7 @@ export const team: TeamMember[] = [
   {
     name: 'Troy Perfect',
     role: 'Founder & CEO',
-    bio: 'Founded Just Perfect Transportation in 2013, Troy grew the company from a small NYC operation to the rebranded Modal Global, serving thousands of businesses across the Tri-State region and specializing in high-criticality logistics.',
+    bio: 'Founded Just Perfect Transportation (JPT USA) in 2013, Troy grew the company from a small NYC operation to a leading Tri-State courier, serving thousands of businesses and specializing in high-criticality logistics.',
   },
   {
     name: 'Operations Team',

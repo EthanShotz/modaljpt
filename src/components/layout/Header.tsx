@@ -70,10 +70,10 @@ const Header = () => {
         {/* Brand */}
         <Link to="/" className="flex flex-col leading-tight">
           <span className="font-heading text-xl font-bold tracking-wide text-primary">
-            MODAL GLOBAL
+            JPT USA
           </span>
           <span className="text-[0.65rem] tracking-widest text-gray">
-            TRANSPORTATION
+            JUST PERFECT TRANSPORTATION
           </span>
         </Link>
 
@@ -120,7 +120,7 @@ const Header = () => {
             <SheetContent side="right" className="w-72">
               <SheetHeader>
                 <SheetTitle className="font-heading text-lg font-bold tracking-wide text-primary">
-                  MODAL GLOBAL
+                  JPT USA
                 </SheetTitle>
               </SheetHeader>
 

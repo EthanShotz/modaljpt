@@ -59,7 +59,7 @@ export default function HomePage() {
           <SectionHeader
             badge="Our Services"
             title="Comprehensive Logistics Solutions"
-            description="From immediate stat deliveries to dedicated routes, Modal Global provides the full spectrum of time-critical courier services your business demands."
+            description="From immediate stat deliveries to dedicated routes, JPT USA provides the full spectrum of time-critical courier services your business demands."
             centered
           />
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">
@@ -81,7 +81,7 @@ export default function HomePage() {
               <SectionHeader
                 badge="Coverage"
                 title="Serving the NYC Tri-State Area"
-                description="Modal Global provides comprehensive coverage across all five New York City boroughs, Northern New Jersey, and Southern Connecticut. Our fleet operates 24/7 with direct access to all major airports in the region."
+                description="JPT USA provides comprehensive coverage across all five New York City boroughs, Northern New Jersey, and Southern Connecticut. Our fleet operates 24/7 with direct access to all major airports in the region."
               />
 
               {/* Airport list */}
@@ -141,7 +141,7 @@ export default function HomePage() {
             <TrackingWidget />
           </div>
           <p className="text-center text-gray text-sm mt-6">
-            All Modal Global shipments include complimentary real-time GPS tracking,
+            All JPT USA shipments include complimentary real-time GPS tracking,
             signature confirmation, and proof-of-delivery documentation.
           </p>
         </div>
@@ -170,7 +170,7 @@ export default function HomePage() {
           <SectionHeader
             badge="Testimonials"
             title="What Our Clients Say"
-            description="From medical directors to aerospace operations managers, our clients trust Modal Global with their most critical deliveries."
+            description="From medical directors to aerospace operations managers, our clients trust JPT USA with their most critical deliveries."
             centered
           />
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12">

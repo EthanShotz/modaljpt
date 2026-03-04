@@ -38,7 +38,7 @@ export default function LoginPage() {
         <Card>
           <CardHeader className="text-center space-y-2 pb-6">
             <h1 className="text-2xl font-heading font-bold text-primary tracking-wide">
-              MODAL GLOBAL
+              JPT USA
             </h1>
             <p className="text-gray text-sm">Sign in to your account</p>
           </CardHeader>

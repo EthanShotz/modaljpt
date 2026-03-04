@@ -315,7 +315,7 @@ export default function QuotePage() {
               <Card>
                 <CardHeader>
                   <CardTitle className="text-lg font-heading">
-                    Why Choose Modal Global?
+                    Why Choose JPT USA?
                   </CardTitle>
                 </CardHeader>
                 <CardContent>

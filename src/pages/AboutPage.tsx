@@ -23,7 +23,7 @@ export default function AboutPage() {
   return (
     <>
       {/* ─── Hero ─── */}
-      <HeroBanner title="About Modal Global" subtitle="OUR STORY" />
+      <HeroBanner title="About JPT USA" subtitle="OUR STORY" />
 
       {/* ─── Company Story ─── */}
       <section className="py-20">
@@ -53,10 +53,9 @@ export default function AboutPage() {
                   medical devices, aerospace components, and sensitive technology.
                 </p>
                 <p>
-                  By 2019, the company had outgrown its original identity. Troy
-                  rebranded to <strong>Modal Global Transportation</strong> to reflect
-                  the company's expanded capabilities and its vision for nationwide
-                  service. Today, Modal Global serves hundreds of active clients across
+                  By 2019, the company had expanded its capabilities and set its
+                  sights on nationwide service under the <strong>JPT USA</strong> brand.
+                  Today, JPT USA serves hundreds of active clients across
                   the NYC Tri-State area with 24-hour dispatch, and is actively
                   expanding to Philadelphia, Chicago, Atlanta, and South Florida.
                 </p>
@@ -79,7 +78,7 @@ export default function AboutPage() {
                 <div className="bg-white rounded-xl p-6 shadow-sm">
                   <p className="text-4xl font-heading font-bold text-primary">2019</p>
                   <p className="text-gray text-sm mt-1">
-                    Rebranded to Modal Global Transportation
+                    Expanded to full Tri-State coverage
                   </p>
                 </div>
                 <div className="bg-white rounded-xl p-6 shadow-sm">
@@ -102,7 +101,7 @@ export default function AboutPage() {
           <SectionHeader
             badge="Our Values"
             title="The CPR Promise"
-            description="Customized, Professional, Reliable — the three pillars that guide every delivery and every client relationship at Modal Global."
+            description="Customized, Professional, Reliable — the three pillars that guide every delivery and every client relationship at JPT USA."
             centered
           />
 
@@ -151,7 +150,7 @@ export default function AboutPage() {
           <SectionHeader
             badge="Leadership"
             title="Our Team"
-            description="The dedicated professionals behind Modal Global's commitment to excellence."
+            description="The dedicated professionals behind JPT USA's commitment to excellence."
             centered
           />
 
@@ -188,7 +187,7 @@ export default function AboutPage() {
           <SectionHeader
             badge="Our Approach"
             title="Success Through Simplicity"
-            description="At Modal Global, we believe the best results come from a disciplined focus on fundamentals."
+            description="At JPT USA, we believe the best results come from a disciplined focus on fundamentals."
             centered
           />
 

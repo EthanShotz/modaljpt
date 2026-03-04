@@ -148,7 +148,7 @@ export default function TrackingPage() {
           <SectionHeader
             badge="Our Process"
             title="How It Works"
-            description="From booking to delivery, every Modal Global shipment follows our proven six-step process for maximum reliability."
+            description="From booking to delivery, every JPT USA shipment follows our proven six-step process for maximum reliability."
             centered
           />
 

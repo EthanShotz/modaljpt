@@ -13,10 +13,10 @@ const Footer = () => {
           {/* Column 1: Brand & Description */}
           <div className="space-y-4">
             <h3 className="font-heading text-xl font-bold tracking-wide">
-              MODAL GLOBAL
+              JPT USA
             </h3>
             <p className="text-sm leading-relaxed text-white/70">
-              Modal Global Transportation provides customized, professional, and
+              JPT USA provides customized, professional, and
               reliable logistics solutions. Every package handled with caution
               &amp; care — trusted by businesses across the nation for dependable
               freight and delivery services.
@@ -115,7 +115,7 @@ const Footer = () => {
       {/* ── Bottom Bar ── */}
       <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-4 py-5 sm:flex-row">
         <p className="text-xs text-white/50">
-          &copy; 2024 Modal Global Transportation. All rights reserved.
+          &copy; 2024 JPT USA. All rights reserved.
         </p>
         <p className="text-xs font-medium tracking-widest text-white/40">
           CUSTOMIZED &nbsp;|&nbsp; PROFESSIONAL &nbsp;|&nbsp; RELIABLE

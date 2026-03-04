@@ -204,7 +204,7 @@ export default function ContactPage() {
           </h2>
           <img
             src="/images/maps/usa-outline.svg"
-            alt="Modal Global coverage area map"
+            alt="JPT USA coverage area map"
             className="mx-auto max-w-full h-auto opacity-80"
           />
           <p className="text-gray text-sm mt-6">

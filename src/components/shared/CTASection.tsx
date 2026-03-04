@@ -10,7 +10,7 @@ interface CTASectionProps {
 
 export default function CTASection({
   title = "Ready to Ship with Confidence?",
-  description = "Get started with Modal Global's reliable courier services today.",
+  description = "Get started with JPT USA's reliable courier services today.",
   primaryAction = { label: "Get a Quote", href: "/quote" },
   secondaryAction = { label: "Contact Us", href: "/contact" },
 }: CTASectionProps) {

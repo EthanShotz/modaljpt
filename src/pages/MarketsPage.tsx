@@ -33,7 +33,7 @@ export default function MarketsPage() {
           <SectionHeader
             badge="Coverage Map"
             title="Our Service Network"
-            description="Modal Global operates across key metropolitan areas with plans for rapid nationwide expansion."
+            description="JPT USA operates across key metropolitan areas with plans for rapid nationwide expansion."
             centered
           />
 
