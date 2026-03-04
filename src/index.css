@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Montserrat:wght@700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1a237e;
+  --color-primary-light: #283593;
+  --color-secondary: #2ecc71;
+  --color-accent: #3498db;
+  --color-danger: #e74c3c;
+  --color-warning: #f39c12;
+  --color-dark: #2c3e50;
+  --color-light: #f8f9fa;
+  --color-gray: #95a5a6;
+
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-heading: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
+
+  --animate-fade-in: fade-in 0.5s ease forwards;
+  --animate-slide-up: slide-up 0.6s ease forwards;
+  --animate-pulse-dot: pulse-dot 2s infinite;
+  --animate-blink: blink 1s infinite;
+  --animate-move-pattern: move-pattern 20s linear infinite;
+  --animate-spin-slow: spin 2s linear infinite;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-up {
+  from { transform: translateY(30px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes pulse-dot {
+  0% { transform: scale(1); opacity: 1; }
+  70% { transform: scale(2); opacity: 0.3; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+@keyframes move-pattern {
+  0% { background-position: 0 0; }
+  100% { background-position: 100px 100px; }
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    color: #333;
+    background-color: #ffffff;
+    line-height: 1.6;
+    overflow-x: hidden;
+    margin: 0;
+  }
+}

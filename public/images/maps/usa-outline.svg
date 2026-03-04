@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" fill="none">
+  <rect width="960" height="600" fill="transparent"/>
+  <path d="M200 200 L350 180 L500 170 L650 160 L750 180 L800 220 L820 300 L800 380 L750 420 L700 440 L600 450 L500 440 L400 430 L300 420 L250 380 L220 320 L200 260 Z"
+        fill="#dfe6e9" stroke="#b2bec3" stroke-width="2"/>
+  <path d="M500 170 L500 440" stroke="#b2bec3" stroke-width="1" stroke-dasharray="4,4"/>
+  <path d="M350 180 L350 430" stroke="#b2bec3" stroke-width="1" stroke-dasharray="4,4"/>
+  <path d="M650 160 L650 450" stroke="#b2bec3" stroke-width="1" stroke-dasharray="4,4"/>
+  <path d="M200 300 L820 300" stroke="#b2bec3" stroke-width="1" stroke-dasharray="4,4"/>
+</svg>

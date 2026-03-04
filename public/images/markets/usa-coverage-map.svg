@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" fill="none">
+  <rect width="960" height="600" fill="#f8f9fa"/>
+  <!-- Simplified USA outline -->
+  <path d="M200 200 L350 180 L500 170 L650 160 L750 180 L800 220 L820 300 L800 380 L750 420 L700 440 L600 450 L500 440 L400 430 L300 420 L250 380 L220 320 L200 260 Z"
+        fill="#e3e8ef" stroke="#bdc3c7" stroke-width="2"/>
+  <!-- State divisions suggestion -->
+  <path d="M500 170 L500 440" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M350 180 L350 430" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M650 160 L650 450" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="5,5"/>
+  <path d="M200 300 L820 300" stroke="#bdc3c7" stroke-width="1" stroke-dasharray="5,5"/>
+  <!-- Region labels -->
+  <text x="750" y="240" font-family="Inter, sans-serif" font-size="14" fill="#1a237e" font-weight="600">Northeast</text>
+  <text x="500" y="280" font-family="Inter, sans-serif" font-size="14" fill="#1a237e" font-weight="600">Midwest</text>
+  <text x="650" y="380" font-family="Inter, sans-serif" font-size="14" fill="#1a237e" font-weight="600">Southeast</text>
+  <text x="300" y="350" font-family="Inter, sans-serif" font-size="14" fill="#1a237e" font-weight="600">Southwest</text>
+  <text x="250" y="250" font-family="Inter, sans-serif" font-size="14" fill="#1a237e" font-weight="600">West</text>
+  <!-- Hub dots -->
+  <circle cx="770" cy="220" r="6" fill="#e74c3c"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="530" cy="260" r="6" fill="#e74c3c"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="680" cy="360" r="6" fill="#e74c3c"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="280" cy="230" r="6" fill="#e74c3c"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="360" r="6" fill="#e74c3c"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
